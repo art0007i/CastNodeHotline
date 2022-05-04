@@ -1,6 +1,6 @@
 # CastNodeHotline
 
-A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that does x.
+A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that makes cast nodes not delete themselves automatically. This fixes the [cast bug (#918)](https://github.com/Neos-Metaverse/NeosPublic/issues/918) as well as [#1493](https://github.com/Neos-Metaverse/NeosPublic/issues/1493).
 
 ## Installation
 1. Install [NeosModLoader](https://github.com/zkxs/NeosModLoader).
