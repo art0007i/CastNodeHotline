@@ -14,7 +14,7 @@ namespace CastNodeHotline
     {
         public override string Name => "CastNodeHotline";
         public override string Author => "art0007i";
-        public override string Version => "1.0.0";
+        public override string Version => "1.0.1";
         public override string Link => "https://github.com/art0007i/CastNodeHotline/";
         public override void OnEngineInit()
         {
@@ -29,7 +29,6 @@ namespace CastNodeHotline
         {
             public static bool Prefix()
             {
-                Warn("Woah dude watch out the patch is patching !");
                 return false;
             }
         }
